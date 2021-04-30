@@ -1,7 +1,7 @@
 ## AC Knob (Konami Official)
 
-![Image of Official Konami Knob](Knobs/Images/AC Knob.png)
+![Image of Official Konami Knob](Images/AC_Knob.png)
 
 ## Virgoo Turbocharger
 
-![Image of Virgoo Turbocharger Knob](Knobs/Images/Virgo Turbocharger.png)
+![Image of Virgoo Turbocharger Knob](Images/Virgoo_Turbocharger.png)

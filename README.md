@@ -1,6 +1,6 @@
 # sdvx-repo
 
-This repo contains my plans and part files for primiarly for DIY controllers, but some arcade owners may find the contents useful as well.
+This repo contains my plans and part files for primarily for DIY controllers, but some arcade owners may find the contents useful as well.
  
 ## Current Content
 

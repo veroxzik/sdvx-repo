@@ -2,6 +2,10 @@
 
 This board is designed to adapt generic hall effect potentiometers to use the same JST connector as Sensatec pots, such as the one used in the Sound Voltex volume knob assembly.
 
+### Download
+
+Download the gerbers from this folder, it is the only \*.zip file.
+
 ### Potentiometer
 
 The potentiometer can be found by using various keywords such as "Non-contact Angle Sensor", "360 Degrees", "Digital Potentiometer".  

@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "local-footprints")(type "KiCad")(uri "${KIPRJMOD}/local-footprints.pretty")(options "")(descr ""))
+  (lib (name "VXZK")(type "KiCad")(uri "${KIPRJMOD}/VXZK.pretty")(options "")(descr ""))
+)

@@ -1,8 +1,12 @@
 # sdvx-repo
 
-This repo contains my plans and part files for primarily for DIY controllers, but some arcade owners may find the contents useful as well.
+This repo contains all things Sound Voltex.
  
 ## Current Content
+
+### Volume Assembly
+
+This is a full CAD model of the Nemsys Volume Assembly.
 
 ### Knobs
 

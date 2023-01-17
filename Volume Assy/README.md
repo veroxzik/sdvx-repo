@@ -9,7 +9,8 @@ I've swapped the hardware and bushings out for items from McMaster, but part num
 Unfortunately, the small washer does not have a direct McMaster equivalent. I would probably use [this washer](https://www.mcmaster.com/91545A450/) with a few layers of scotch tape to shim the missing height.
 
 Replacement knobs can be found at:
-* [Speedy Labs](https://www.speedylabs.shop/product/sound-voltex-aluminum-arcade-knob/)
+* [Speedy Labs](https://www.speedylabs.us/product/sound-voltex-aluminum-arcade-knob/)
+* [Blue Spring Express](https://bluespringexpress.net/en-us/products/acknob)
 
 Other replacement parts can be found  at:
 * [YubiParts](https://yubiparts.com/)

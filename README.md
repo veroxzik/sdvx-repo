@@ -6,7 +6,7 @@ This repo contains all things Sound Voltex.
 
 ### Volume Assembly
 
-This is a full CAD model of the Nemsys Volume Assembly.
+These are full CAD models of the Valkyrie and Nemsys Volume Assemblies.
 
 ### Knobs
 
